@@ -26,6 +26,8 @@ console.log(x.health, x.mana, x.armor);
 x.attack();
 
 
+
+
 // 출력
 // 545 210 10
 // 파이어볼
